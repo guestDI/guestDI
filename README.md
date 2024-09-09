@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Hello! My name is Dima and I'm a Frontend Engineer with almost 5 years of experience in the frontend area and more than 11 years of overall experience in IT industry.
+🔭 Hello! My name is Dima and I'm a Frontend Engineer with almost 6 years of experience in the frontend area and more than 12 years of overall experience in IT industry.
 
 🌱 My main stack is React and VueJs but my passion for technology keeps growing, and I'm always excited to take on new challenges in this ever-changing field. 
 
