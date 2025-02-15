@@ -1,9 +1,21 @@
-### Hi there 👋
+👋 Hi there, I'm Dmitry!
+I'm a passionate Software Developer with a love for building Scalable UI applications. I enjoy solving complex problems and turning ideas into reality through code.
 
-🔭 Hello! My name is Dima and I'm a Frontend Engineer with about 6 years of experience in the frontend area and more than 13 years of overall experience in IT industry.
+🛠️ Tech Stack
+Languages: Python, JavaScript
 
-🌱 My main stack is React but my passion for technology keeps growing, and I'm always excited to take on new challenges in this ever-changing field. 
+Frameworks & Libraries: React, Angular, Fastify, Express, Next.js, React Native
 
-My page on Medium: (https://medium.com/@ignatovich.dm)
+Tools & Platforms: Docker, Kubernetes, Git
 
-📫 How to reach me: ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+Databases: PostgreSQL, MongoDB, Redis
+
+🌱 What I'm Currently Learning
+Exploring cloud-native technologies, diving into blockchain development
+
+📫 How to Reach Me
+Email: ignatovich.dm@gmail.com
+
+LinkedIn: [(www.linkedin.com/in/dzmitry-ihnatovich-096b8a36)]
+
+Medium: [(https://medium.com/@ignatovich.dm)]
