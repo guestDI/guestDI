@@ -41,10 +41,6 @@ I'm Dmitry! I'm a passionate Software Developer with a love for building Scalabl
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<div style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/guestdm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></div>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/guestdm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dm110416"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+<div style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dm110416"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></div>
