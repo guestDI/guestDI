@@ -1,29 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitry Ihnatovich
-=========================================================================================================================================
-
-Web Developer
--------------
-
-I'm Dmitry! I'm a passionate Software Developer with a love for building Scalable UI applications. I enjoy solving complex problems and turning ideas into reality through code.
-
-* 🌍  I'm based in Wroclaw, Poland
-* ✉️  You can contact me at [ignatovich.dm@gmail.com](mailto:ignatovich.dm@gmail.com)
-* 🧠  I'm learning cloud-native technologies, diving into blockchain development
-* ⚡  I have a Medium account: https://medium.com/@ignatovich.dm
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/guestDI" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dzmitry-ihnatovich-096b8a36" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@ignatovich.dm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-
-### Apps
-Resume buddy [Link](www.nexlifypal.com)
-<br/> Web Extension: [TranslateMate AI](https://chromewebstore.google.com/detail/translatemate-ai/aofhadnfhkjjjifnemibfmfaldfapdab)
-<br/> Analogize It [Link](https://analogizeit.org/)
+# Hi, I'm Dzmitry Ihnatovich 👋
+ 
+**Frontend Engineer — React · TypeScript · Next.js** — based in Wrocław, Poland 🇵🇱
+ 
+I build scalable UI applications and ship my own products. Currently diving deeper into cloud-native technologies and AI-powered UX.
+ 
+📫 [ignatovich.dm@gmail.com](mailto:ignatovich.dm@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dzmitry-ihnatovich-096b8a36) · [Medium](https://medium.com/@ignatovich.dm)
+ 
+---
+ 
+## 🚀 Products I've Built
+ 
+### [Resume Buddy](https://www.nexlifypal.com) — AI-powered career platform
+ 
+Upload a CV, paste a job description, and get an ATS match score, gap analysis with suggested rewrites, a tailored cover letter, and role-specific interview questions — all generated in under 60 seconds. Supports multiple languages and PDF/DOCX/TXT parsing.
+ 
+**450+ resume analyses · 330+ cover letters · 730+ interview sessions**
+ 
+`Next.js` `TypeScript` `LLM integration` `i18n` <!-- TODO: adjust stack tags to what you actually used (DB, hosting, payments, etc.) -->
+ 
+### [Analogize](https://analogizeit.org) — learn anything through analogies
+ 
+Turns dense concepts into memorable explanations using analogies from a domain you already understand — music, gaming, cooking, sports, and more. Accepts text, URLs, files, and images. Also available as a [Chrome extension](https://chromewebstore.google.com/detail/analogize/gggnbmdhjgikgfnfjckafjbmmjailhhb).
+ 
+`Next.js` `TypeScript` `LLM integration` `Chrome Extension` 
+ 
+---
+ 
+## 🔧 Open Source & Side Projects
+ 
+- **[react-product-tour-guide](https://github.com/guestDI/react-tour)** — a flexible, accessible product tour component for React, published on npm. Spotlight highlighting, async steps, dark mode, React 18/19 support.
+- **[graph-ql-blog-app](https://github.com/guestDI/graph-ql-blog-app)** — GraphQL blog API with Apollo Server, Prisma, JWT auth, and DataLoader.
+- **[react-chat-websocket](https://github.com/guestDI/react-chat-websocket)** — real-time chat with Next.js, Socket.IO, and Firebase.
+- **[mac-notes-electron](https://github.com/guestDI/mac-notes-electron)** — macOS Notes clone as a desktop app (Electron, React 19, Vite).
+## 🛠️ Core Stack
+ 
+**Frontend:** React · TypeScript · Next.js · Redux · Tailwind CSS
+**Backend:** Node.js · Express · GraphQL · PostgreSQL
+**Tooling & Cloud:** Docker · Google Cloud · Vite
+ 
+## ✍️ Writing
+ 
+I write about frontend development and building products on [Medium](https://medium.com/@ignatovich.dm).
+[The JavaScript Event Loop Explained with Examples](https://medium.com/@ignatovich.dm/the-javascript-event-loop-explained-with-examples-d8f7ddf0861d) 
+[Optimizing Next.js Applications: A Concise Guide](https://medium.com/@ignatovich.dm/optimizing-next-js-applications-a-concise-guide-a8167dfc8271)
+[Context Splitting in React](https://javascript.plainenglish.io/context-splitting-in-react-a-technique-to-prevent-unnecessary-rerenders-d9bfc7114949)
+ 
+---
+ 
+💬 Open to interesting frontend opportunities — the fastest way to reach me is [email](mailto:ignatovich.dm@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dzmitry-ihnatovich-096b8a36).
