@@ -41,9 +41,9 @@ Turns dense concepts into memorable explanations using analogies from a domain y
 ## ✍️ Writing
  
 I write about frontend development and building products on [Medium](https://medium.com/@ignatovich.dm).
-[The JavaScript Event Loop Explained with Examples](https://medium.com/@ignatovich.dm/the-javascript-event-loop-explained-with-examples-d8f7ddf0861d) 
-[Optimizing Next.js Applications: A Concise Guide](https://medium.com/@ignatovich.dm/optimizing-next-js-applications-a-concise-guide-a8167dfc8271)
-[Context Splitting in React](https://javascript.plainenglish.io/context-splitting-in-react-a-technique-to-prevent-unnecessary-rerenders-d9bfc7114949)
+<br/>[The JavaScript Event Loop Explained with Examples](https://medium.com/@ignatovich.dm/the-javascript-event-loop-explained-with-examples-d8f7ddf0861d) 
+<br/>[Optimizing Next.js Applications: A Concise Guide](https://medium.com/@ignatovich.dm/optimizing-next-js-applications-a-concise-guide-a8167dfc8271)
+<br/>[Context Splitting in React](https://javascript.plainenglish.io/context-splitting-in-react-a-technique-to-prevent-unnecessary-rerenders-d9bfc7114949)
  
 ---
  
