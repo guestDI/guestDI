@@ -14,15 +14,17 @@ I build scalable UI applications and ship my own products. Currently diving deep
  
 Upload a CV, paste a job description, and get an ATS match score, gap analysis with suggested rewrites, a tailored cover letter, and role-specific interview questions — all generated in under 60 seconds. Supports multiple languages and PDF/DOCX/TXT parsing.
  
-**450+ resume analyses · 330+ cover letters · 730+ interview sessions**
- 
-`Next.js` `TypeScript` `LLM integration` `i18n` <!-- TODO: adjust stack tags to what you actually used (DB, hosting, payments, etc.) -->
+`Next.js` `TypeScript` `LLM integration` `i18n` </br>
+
+[Case study & architecture](https://github.com/guestDI/resume-buddy)
  
 ### [Analogize](https://analogizeit.org) — learn anything through analogies
  
 Turns dense concepts into memorable explanations using analogies from a domain you already understand — music, gaming, cooking, sports, and more. Accepts text, URLs, files, and images. Also available as a [Chrome extension](https://chromewebstore.google.com/detail/analogize/gggnbmdhjgikgfnfjckafjbmmjailhhb).
  
-`Next.js` `TypeScript` `LLM integration` `Chrome Extension` 
+`Next.js` `TypeScript` `LLM integration` `Chrome Extension` </br>
+
+[Case study & architecture](https://github.com/guestDI/analogize)
  
 ---
  
