@@ -34,9 +34,10 @@ Turns dense concepts into memorable explanations using analogies from a domain y
 - **[mac-notes-electron](https://github.com/guestDI/mac-notes-electron)** — macOS Notes clone as a desktop app (Electron, React 19, Vite).
 ## 🛠️ Core Stack
  
-**Frontend:** React · TypeScript · Next.js · Redux · Tailwind CSS
-**Backend:** Node.js · Express · GraphQL · PostgreSQL
+**Frontend:** React · TypeScript · Next.js · Redux · Tailwind CSS · Angular
+**Backend:** Node.js · Express · GraphQL · PostgreSQL · MongoDB
 **Tooling & Cloud:** Docker · Google Cloud · Vite
+**Testing:** Jest · RTL · Vitest · Cypress · Playwright    
  
 ## ✍️ Writing
  
